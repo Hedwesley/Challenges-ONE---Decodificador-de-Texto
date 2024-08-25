@@ -1,5 +1,8 @@
 # Alura Challenge #1 | Oracle One | Decodificador de texto
 
+Insígnia conquistada por êxito no Challenge
+---
+<img width="400" heigth="400" src="https://user-images.githubusercontent.com/53119511/182505237-fe83c597-f435-4ed5-bdf8-5b70b99537ca.png">
 
 Descrição do Projeto:
 ---
