@@ -29,5 +29,5 @@ caichoberrrober" => "cachorro"
 
 Bônus
 ---
--Um botão que permite copiar o texto criptografado ou descriptografado diretamente para a área de transferência, funcionando de forma similar ao atalho Ctrl+C ou à opção 'Copiar' encontrada nos menus de aplicativos.
+- Um botão que permite copiar o texto criptografado ou descriptografado diretamente para a área de transferência, funcionando de forma similar ao atalho Ctrl+C ou à opção 'Copiar' encontrada nos menus de aplicativos.
 
