@@ -24,7 +24,7 @@ Funcionalidade:
 - Ele permite tanto converter uma palavra para sua versão criptografada quanto reverter uma palavra criptografada para sua forma original.
 
 Por exemplo:
-"cachorro" => "caichoberrrober"
+"cachorro" => "caichoberrrober"<br>
 caichoberrrober" => "cachorro"
 
 Bônus
