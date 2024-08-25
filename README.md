@@ -17,7 +17,7 @@ As "keys" de criptografia utilizadas são as seguintes:
 - A letra 'o' é convertida para 'ober'.<br>
 - A letra 'u' é convertida para 'ufat'.<br>
 
-Funcionalidade:
+Funcionalidades:
 ---
 - O sistema opera exclusivamente com letras minúsculas 
 - Não aceita caracteres acentuados ou especiais, como pontos, vírgulas, hashtags, arrobas, entre outros. 
