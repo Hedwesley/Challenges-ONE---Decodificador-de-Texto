@@ -7,10 +7,6 @@ Resultado do Primeiro Desafio do Programa ONE (Oracle + Alura):
 
 - Criação de um decodificador de texto com design responsivo, desenvolvido utilizando HTML, CSS e JavaScript. O projeto permite criptografar e descriptografar palavras de acordo com um conjunto específico de regras, garantindo uma interface intuitiva e adaptável a diferentes dispositivos.
 
-<p align="center" >
-     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/53119511/182502484-45f07927-fa85-4b5a-b42a-6e9164b75d25.JPG">
-</p>
-
 Key de Criptografia
 ---
 
